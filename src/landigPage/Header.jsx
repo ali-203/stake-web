@@ -78,7 +78,7 @@ zYF Protocol
         exercitation</p>
         </div>
         <div className="second_img">
-        <img src={pic} alt="img" width="100px" />
+        <img src={pic} alt="img" width="450px" />
         </div>
 
         <button className="read_blog">Read our blog</button>
