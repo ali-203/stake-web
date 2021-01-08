@@ -72,7 +72,7 @@
     font-size: 20px;
 }
 .para_div{
-    font-size: 10px;
+    font-size: 5px;
     margin-top: 10px;
 }
 @media screen and (min-width:700px){
@@ -139,6 +139,32 @@ margin-top: 15px;
     background-color: skyblue;
 height: 100%;
 }
+.protocol {
+    margin-left: 20px;
+    margin-top: 100px;
+}
+.pegging {
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.what {
+    margin-bottom: 50px;
+}
+.insurr{
+    margin-bottom: 15px;
+    margin-top: 10px;
+
+}
+
+
+
+    
+
+
+   
+   
+    
+
 
 
 

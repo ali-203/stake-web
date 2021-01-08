@@ -65,14 +65,14 @@ zYF Protocol
 
         <div className= "main_div">
         <div className="protocol">
-        <h2>What is zYF Protocol?</h2>
+        <h2 className="what">What is zYF Protocol?</h2>
         <h3>Insurance on coupons</h3>
         <p>Lorem ipsum dolor sit amet,consectetur adipiscing elit,sed do eiusmod tempor<br/>
         incididunt ut labore et dolore manage alique. Ut enim ad minim veniam,quis nostrud<br/>
         exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
         </div>
         <div className="pegging">
-            <h2>Insurance on un-pegging</h2>
+            <h2 className="insurr">Insurance on un-pegging</h2>
             <p>Lorem ipsum dolor sit amet,consectetur adipiscing elit,sed do eiusmod tempor<br/>
         incididunt ut labore et dolore manage alique. Ut enim ad minim veniam,quis nostrud
         exercitation</p>
