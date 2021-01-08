@@ -84,11 +84,9 @@ zYF Protocol
         <button className="read_blog">Read our blog</button>
         </div>
         <div className="footer_div">
-        <footer>
-           <p> zYF Protocol © 2021</p>
+        
+           <p className="zyf"> zYF Protocol © 2021</p>
            <h6>App Lite paper Blog</h6>
-           
-           </footer>
            
            <div className="tw_near">
            <TwitterIcon />
