@@ -171,6 +171,11 @@ height: 100%;
 h3{
     color: blue;
 }
+.footer_div {
+    margin-top: 15%;
+    display:inline-block;
+    
+}
 
 
 
