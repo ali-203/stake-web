@@ -11,6 +11,7 @@ import "./LandingPage.css"
 function Header() {
     return (
         <div>
+        <div className="blue-color">
         <div className="container">
             <div className="logo-div">
   <span className="logo-img">
@@ -50,17 +51,15 @@ zYF Protocol
         
         </div>
         <div className="join">
-        <p>
+        <p className="community">
         join our community!
         </p>
-       
-        
-        </div>
-        </div>
-
-        <div>
+        <div className="logo-div">
         <ModeCommentIcon />
        <NearMeIcon />
+       </div>
+       </div>
+       </div>
        </div>
 
 
@@ -87,7 +86,6 @@ zYF Protocol
            <p>App Lite paper Blog</p>
            <TwitterIcon />
            <ModeCommentIcon />
-
            <NearMeIcon />
         </footer>
 

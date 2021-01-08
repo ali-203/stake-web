@@ -27,7 +27,8 @@
    text-align: end;
 
 }
-.container{
+
+.container {
     background: rgb(82, 139, 161);
     display: flex;
     
@@ -99,25 +100,47 @@
 }
 
 .button_launch {
-    margin-left: 22px;
+    margin-left: 20px;
     display: flex;
     font-size: 30px;
-    height: 35px;
+    height: 50px;
 }
 
 .launch_text {
     width: 25%;
+    box-shadow: 2px;
+    background: rgba(226, 225, 220, 0.52);
+    border-color: whitesmoke;
+
+    border-radius: 2px solid white;
+    border-radius: 10px 10px 10px 10px;
 }
 
 .lite_paper {
+    border-style: solid white;
     background-color :white;
     border-radius: 2px solid black;
 margin-left :20px;
 padding :8px;
-text-color:whitesmoke;
-
-
+width: 25%;
 } 
+.join{
+margin-left: 20px;
+margin-top: 15px;
+
+}
+.community{
+    color:white;
+}
+.logo-div {
+    margin-left: 10px;
+    color: white;
+    margin-top: 5px;
+}
+.blue-color {
+    background-color: skyblue;
+height: 100%;
+}
 
 
 
