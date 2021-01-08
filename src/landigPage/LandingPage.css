@@ -109,7 +109,6 @@
     box-shadow: 2px;
     background: rgba(226, 225, 220, 0.52);
     border-color: whitesmoke;
-
     border-radius: 2px solid white;
     border-radius: 10px 10px 10px 10px;
 }
@@ -148,13 +147,33 @@ height: 100%;
     margin-top: 30px;
 }
 .what {
+    color: blue;
+
     margin-bottom: 50px;
 }
 .insurr{
     margin-bottom: 15px;
     margin-top: 10px;
+    color: blue;
 
 }
+.second_img {
+    margin-left: 70%;
+}
+.read_blog {
+    margin-left: 20px;
+    height: 40px;
+    width: 25%;
+    background-color: blue;
+    color: white;
+    border-radius: 10px 10px 10px 10px;
+}
+h3{
+    color: blue;
+}
+
+
+
 
 
 
