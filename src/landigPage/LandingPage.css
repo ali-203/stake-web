@@ -172,10 +172,21 @@ h3{
     color: blue;
 }
 .footer_div {
-    margin-top: 15%;
-    display:inline-block;
+    margin: 30px;
+    background-color: blue;
+    height: 100%;
+
+}
+.tw_near {
+    float: right;
+    margin-right: 40px;
+    color: white;
     
 }
+
+
+
+
 
 
 

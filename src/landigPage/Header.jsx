@@ -86,13 +86,18 @@ zYF Protocol
         <div className="footer_div">
         <footer>
            <p> zYF Protocol © 2021</p>
-           <p>App Lite paper Blog</p>
+           <h6>App Lite paper Blog</h6>
+           
+           </footer>
+           
+           <div className="tw_near">
            <TwitterIcon />
            <ModeCommentIcon />
            <NearMeIcon />
-        </footer>
+           </div>
+           </div>
+
         
-        </div>
 
         
 
