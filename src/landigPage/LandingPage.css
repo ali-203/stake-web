@@ -6,8 +6,6 @@
 .logo-div{
     display: flex;
     align-items: center;
-   
-    
     width: 100%;
 }
 .image{
@@ -141,7 +139,6 @@ margin-top: 15px;
     background-color: skyblue;
 height: 100%;
 }
-
 
 
 

@@ -63,7 +63,7 @@ zYF Protocol
        </div>
 
 
-        <div main_div>
+        <div className= "main_div">
         <div className="protocol">
         <h2>What is zYF Protocol?</h2>
         <h3>Insurance on coupons</h3>
@@ -77,7 +77,9 @@ zYF Protocol
         incididunt ut labore et dolore manage alique. Ut enim ad minim veniam,quis nostrud
         exercitation</p>
         </div>
+        <div className="second_img">
         <img src={pic} alt="img" width="100px" />
+        </div>
 
         <button className="read_blog">Read our blog</button>
         </div>
